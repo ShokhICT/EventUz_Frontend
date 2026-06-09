@@ -1,75 +1,36 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+About the Project
+EventHub is a web application designed to simplify event management. The platform allows organizers to create and manage events while users can discover events and register online.
+The project aims to replace manual event management methods such as spreadsheets, social media posts, and messaging apps with a centralized digital solution.
+Technology Stack
+Frontend
+Nuxt 3
+Tailwind CSS
+Backend
+Node.js
+Express.js
+Database
+MongoDB
+Authentication
+JWT
+Main Features
+Users
+Register and Login
+Browse Events
+Search and Filter Events
+Register for Events
+View My Events
+Manage Profile
+Administrators
+Manage Events
+Manage Categories
+Manage Users
+View Registrations
+Dashboard and Reports
+Project Structure
+frontend/   -> Nuxt 3 application
+backend/    -> Express.js REST API
+database/   -> MongoDB
+Purpose
+To develop a modern event management platform that improves event organization, attendee registration, and business process automation.
+EventHub 
+Final Year Diploma Project – Student ID: 00019247
